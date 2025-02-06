@@ -8,7 +8,7 @@ body {
   align-items: center;
   height: 100vh;
   position: relative;
-  background-image: url('/fondo.jpg');
+  background-image: url('https://angelorubio.github.io/mi_valentin/fondo.jpg');
   background-size: cover;
   background-position: center; 
   background-repeat: no-repeat; 
