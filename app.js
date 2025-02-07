@@ -74,10 +74,10 @@ document.addEventListener("DOMContentLoaded", function () {
     // Función para mostrar el GIF de aceptación
     function showAcceptedGif() {
         gifContainer.innerHTML = `<img src="${ACCEPTED_GIF.img}" alt="${ACCEPTED_GIF.description}" />`;
-        descriptionText.textContent = ACCEPTED_GIF.description;  // Descripción del GIF aceptado
-        confirmButton.style.display = "none";  // Ocultar el botón "Sí"
-        denyButton.style.display = "none";  // Ocultar el botón "No"
-        message.classList.remove("hidden");  // Mostrar el mensaje final
+        descriptionText.textContent = ACCEPTED_GIF.description;  
+        confirmButton.style.display = "none"; 
+        denyButton.style.display = "none";  
+        message.classList.remove("hidden");  
     }
 
     // Función para mover el botón "No" aleatoriamente
