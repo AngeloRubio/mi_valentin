@@ -39,7 +39,7 @@ document.addEventListener("DOMContentLoaded", function () {
         },
         {
             id: 7,
-            description: "Te prometo que será inolvidable.",
+            description: "Podemos ver a tus chinitos favoritos juntos.",
             img: "https://media.tenor.com/N2oqtqaB_G0AAAAi/peach-goma.gif",
         },
         {
@@ -54,7 +54,7 @@ document.addEventListener("DOMContentLoaded", function () {
         },
         {
             id: 10,
-            description: "Confía en mí.",
+            description: "Podemos ver la saga de Harry Potter o Interestelar, lo que tú prefieras.",
             img: "https://i.pinimg.com/originals/db/aa/c1/dbaac13f6278b91a15e480752b8a7242.gif",
         },
         {
